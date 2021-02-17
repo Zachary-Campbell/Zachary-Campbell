@@ -1,5 +1,6 @@
 # Hi, I’m Zac 👋🏻👨🏼‍💻
 
+I'm a software engineer currently looking for an opportunity to utilize and improve my skills. Some technologies I enjoy working with include ReactJS, JavaScript, and Python.
 
 ## Find me around the web 🌎:
 
